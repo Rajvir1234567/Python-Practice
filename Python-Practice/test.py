@@ -1,0 +1,25 @@
+import pandas as pd
+df = pd.read_csv('surat_uncleaned.csv')
+#print(df.head())
+#print(df.tail())
+#print(df.shape)
+#print(df.columns)
+#print(df.dtypes)
+#print(df.info())
+#print(df.describe())
+#print(df.isnull())
+#print(df.isnull().sum())
+#percentage = df.isnull().sum() / len(df) * 100
+#print(max(percentage))
+#df = df.dropna()
+#print(df.shape)
+#df = df.drop(df.columns[df.isnull().sum() / len(df) * 100 > 20], axis=1)
+print(df.columns)
+#print(df['status'].isnull().sum())
+#value_mode = df['status'].mode()[0]
+#df['status'] = df['status'].fillna(value = value_mode)
+#print(df['status'].isnull().sum())
+print(df['floor'].isnull().sum())
+value_mode = df['floor'].mode()[0]
+df['floor'] = df['floor'].fillna(value = value_mode)
+print(df['floor'].isnull().sum())
