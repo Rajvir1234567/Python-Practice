@@ -1,0 +1,10 @@
+import pandas as pd
+df = pd.read_csv('uncleaned_data.csv')
+print("First 10 rows of the dataset:")
+print(df.head(10))
+print("\nLast 10 rows of the dataset:")
+print(df.tail(10))
+print("\nDataset shape:")
+print(df.shape)
+print("\nData types:")
+print(df.dtypes)
