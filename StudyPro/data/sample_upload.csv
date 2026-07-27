@@ -1,0 +1,16 @@
+first_name,last_name,gender,age,studytime,failures,absences,G1,G2,sex,internet,higher,Medu,Fedu,health,famrel,freetime,goout,Dalc,Walc,traveltime,address,famsize,Pstatus,schoolsup,famsup
+Aisha,Khan,F,17,2,0,4,12,13,F,yes,yes,3,2,4,4,3,3,1,1,1,U,GT3,T,no,yes
+Rohan,Mehta,M,16,1,1,12,7,8,M,yes,yes,2,1,3,3,4,4,2,3,2,U,GT3,T,yes,no
+Priya,Sharma,F,18,3,0,2,15,16,F,yes,yes,4,3,5,5,2,2,1,1,1,U,GT3,T,no,yes
+Arjun,Patel,M,15,2,0,6,10,11,M,no,yes,2,2,3,4,3,3,1,2,1,R,LE3,A,no,yes
+Sneha,Verma,F,17,1,2,20,5,6,F,yes,no,1,1,2,2,4,5,3,4,3,U,GT3,T,yes,no
+Kabir,Singh,M,16,4,0,1,18,19,M,yes,yes,4,4,5,5,2,1,1,1,1,U,GT3,T,no,yes
+Meera,Nair,F,19,2,1,8,9,9,F,yes,yes,2,2,3,3,3,3,2,2,2,U,LE3,T,no,no
+Vikram,Iyer,M,17,3,0,3,14,15,M,yes,yes,3,3,4,4,3,2,1,1,1,U,GT3,T,no,yes
+Lakshmi,Rao,F,16,1,0,15,8,7,F,no,yes,1,2,2,3,4,4,2,3,2,R,GT3,A,yes,no
+Rahul,Gupta,M,18,2,0,5,13,14,M,yes,yes,3,2,4,4,3,3,1,2,1,U,GT3,T,no,yes
+Anjali,Das,F,15,1,3,25,4,3,F,yes,no,0,1,1,2,5,5,4,5,3,U,GT3,T,yes,no
+Nikhil,Joshi,M,17,2,0,7,11,12,M,yes,yes,2,3,4,4,3,3,1,1,1,U,GT3,T,no,yes
+Divya,Pillai,F,16,3,0,2,16,17,F,yes,yes,4,4,5,5,2,2,1,1,1,U,GT3,T,no,yes
+Siddharth,Reddy,M,18,1,1,18,6,7,M,no,yes,1,1,2,2,4,4,3,4,2,R,LE3,A,yes,no
+Pooja,Mishra,F,17,2,0,4,12,13,F,yes,yes,3,2,4,4,3,3,1,1,1,U,GT3,T,no,yes
